@@ -34,7 +34,7 @@ const HeroBanner = () => {
           href="#exercises"
           sx={{ backgroundColor: "ff2625", padding: "10px" }}
         >
-          Explore Excercises
+          Explore Exercises
         </Button>
         <Typography
           fontWeight={600}
@@ -42,7 +42,7 @@ const HeroBanner = () => {
           sx={{ opacity: 0.1, display: { lg: "block", xs: "none" } }}
           fontSize="200px"
         >
-          Excercise
+          Exercise
         </Typography>
         <img src={HeroBannerImage} alt="banner" className="hero-banner-img" />
       </Box>
